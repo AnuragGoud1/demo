@@ -1,0 +1,6 @@
+ New medical bills:
+   paracetomol: 40 rupees
+   Okacet: 20 rupees
+   Lulikan :100 rupees
+   
+ All produced by Medical.india private Limited.
